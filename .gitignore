@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+.suo
+.user
+*.log
+*.log.*
+*.htm
+*.html
+DebugLog.xml
+App.config
+/bin/
+/obj/
